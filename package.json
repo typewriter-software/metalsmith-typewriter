@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.16.1",
+    "debug": "~0.7.4"
+  },
+  "description": "A Metalsmith plugin to create content based on a Typewriter CMS account.",
+  "devDependencies": {
+    "assert-dir-equal": "0.x",
+    "metalsmith": "0.x"
+  },
+  "homepage": "https://github.com/typewriter-software/metalsmith-typewriter",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "ianstormtaylor",
+      "email": "ian@ianstormtaylor.com"
+    }
+  ],
+  "name": "metalsmith-typewriter",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typewriter-software/metalsmith-typewriter.git"
+  },
+  "version": "0.1.0"
+}
