@@ -13,8 +13,8 @@
   "main": "lib/index.js",
   "maintainers": [
     {
-      "name": "ianstormtaylor",
-      "email": "ian@ianstormtaylor.com"
+      "name": "Matt Crider",
+      "email": "matt@typewriter.software"
     }
   ],
   "name": "metalsmith-typewriter",
